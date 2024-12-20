@@ -9,7 +9,7 @@ $(document).ready(()=>{
         $inputs.prop('disabled', true);
 
         $.ajax({
-            url: "https://formcarry.com/s/EpNtk1D-eg6",
+            url: "https://formcarry.com/s/yFvzG2b_QVI",
             type: 'POST',
             data: serializedData,
             success: function(response) {
